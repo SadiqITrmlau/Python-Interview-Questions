@@ -118,11 +118,11 @@ Whether you're preparing for campus placements, technical interviews, or improvi
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,jupyter,git,github" />
 </p>
 
 - **Language:** Python
-- **Editor:** VS Code
+- **Editor:** Jupyter
 - **Version Control:** Git & GitHub
 
 ---
