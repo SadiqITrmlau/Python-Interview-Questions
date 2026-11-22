@@ -115,15 +115,17 @@ Whether you're preparing for campus placements, technical interviews, or improvi
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,jupyter,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,git,github" />
 </p>
 
-- **Language:** Python
-- **Editor:** Jupyter
+- **Programming Language:** Python
+- **Editor / Development Environment:** Jupyter Notebook
 - **Version Control:** Git & GitHub
+
 
 ---
 
