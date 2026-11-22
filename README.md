@@ -7,7 +7,7 @@
 
 # 🐍 Python Interview Questions
 
-### From `print("Hello World")` to ""God what am I doing here!""
+### From `print("Hello World")` to ""God knows what am I doing here!""
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" />
